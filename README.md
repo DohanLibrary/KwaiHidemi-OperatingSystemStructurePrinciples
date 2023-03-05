@@ -19,5 +19,4 @@ Duis tempor diam condimentum tortor bibendum, in dapibus lectus auctor.
 Nunc euismod neque a tincidunt interdum.
 Fusce quis enim vel ante sodales facilisis.
 Curabitur semper enim eleifend diam cursus dictum.
-Donec efficitur urna eget sem placerat suscipit.
 ```
